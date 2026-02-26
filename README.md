@@ -1,13 +1,6 @@
 # 🚀 A/B Testing Simulator  
 ### Production-Grade Experimentation Framework for Product Data Science  
 
-## 👤 Denis Agyapong  
-**Product Data Scientist | Advanced Data Analyst**  
-📍 Oakland, CA  
-📧 vantjohnn@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
-🐙 [GitHub](https://github.com/Denis0242)
-
 ---
 
 # 📌 Executive Summary
