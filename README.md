@@ -4,12 +4,13 @@
 
 🌐 **Live App:** https://ab-test-with-stats.onrender.com 
 
-🐙 **GitHub:** https://github.com/Denis0242/AB_test_with_stats 
+🐙 **GitHub:**[AB-Testing-Experimentation-Framework](https://github.com/Denis0242/AB_test_with_stats) 
 
 ---
 
 ## 🎯 Product Decision Focus
-**Should we launch this feature?** This project simulates how product teams evaluate whether a new feature improves key metrics such as engagement, conversion, or retention using A/B testing. It goes beyond statistical analysis to provide **data-driven product decisions** (go / caution / no-go). 
+**Should we launch this feature?** 
+This project simulates how product teams evaluate whether a new feature improves key metrics such as engagement, conversion, or retention using A/B testing. It also evaluate feature launches using frequentist and Bayesian A/B testing, power analysis, and KPI comparison. It goes beyond statistical analysis to provide **data-driven product decisions** (go / caution / no-go).
 
 --- 
 ## 📌 Business Problem
@@ -115,6 +116,7 @@ AB_test_with_stats/
 This project reflects how Product Data Analysts work in real environments:
 - Not just analyzing data
 - But driving product decisions using experimentation
+- Many teams run experiments but stop at p-values. This framework goes further by connecting statistical outputs to real product decisions, helping teams decide whether a feature should launch, be iterated on, or be rolled back.
 ---
 
 # 👤 Author
